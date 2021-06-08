@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 2,
+	"VersionName": "2.0.8",
+	"SemVersion": "2.0.8",
+	"FriendlyName": "x3_signs",
+	"Description": "X3-Signs is a mod for using different signs, which can be fully customized.",
+	"Category": "Modding",
+	"CreatedBy": "x3008x",
+	"CreatedByURL": "https://ficsit.app/mod/C95K7wsTwPjcz5",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "https://ficsit.app/mod/C95K7wsTwPjcz5",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"SemVersion": "^3.0.0",
+			"bIsOptional": false,
+			"Enabled": true
+		}
+	]
+}
